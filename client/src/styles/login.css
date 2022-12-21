@@ -1,0 +1,25 @@
+.register__container{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    box-sizing: border-box;
+    margin: 4px 2px;
+    text-align: center;
+}
+
+input{
+    
+    margin: 4px 2px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+}
+.All-btn{
+    margin-top: 2rem;
+    font-size:x-large;
+    padding: 1px 30px;
+    color: rgb(208, 208, 230);
+    background-color: rgb(13, 13, 141);
+}
+Link{
+    margin-top: 9rem;
+}
